@@ -1,11 +1,11 @@
-# SimpleDiscovery for Unity
+# LAN Discovery for Unity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Android / Windows](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue.svg)]()
 
 一个专为 **Unity** 打造的、超轻量级局域网发现（LAN Discovery）组件。
 
-## 🚀 为什么选择 SimpleDiscovery？
+## 🚀 为什么选择 LAN Discovery？
 
 在开发 Android (Pico/Quest) 或 Windows 平台的局域网多人游戏时，官方的 Discovery 扩展库经常会遇到搜不到 IP 的问题。本项目通过剥离复杂框架，回归底层 UDP 通信，解决了以下顽疾：
 
