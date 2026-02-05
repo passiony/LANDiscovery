@@ -1,4 +1,4 @@
-# SimpleDiscovery for Unity Netcode (NGO)
+# SimpleDiscovery for Unity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Android / Windows](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue.svg)]()
